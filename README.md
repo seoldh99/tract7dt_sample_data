@@ -7,8 +7,8 @@ tract7dt: https://github.com/seoldh99/tract7dt
 ## Contents
 
 - `images/`: four FITS bands (`m400`, `m500`, `m600`, `m700`)
-- `input_catalog_sample.csv`: filtered catalog (all non-`FLUX_*` columns + `FLUX_m400`, `FLUX_m500`, `FLUX_m600`, `FLUX_m700`)
-- `gaiaxp_dr3_synphot_UDS.csv`: copied without modification
+- `input_catalog_sample.csv`
+- `gaiaxp_dr3_synphot_UDS.csv`
 - `image_list.txt`: generated at download time with absolute local image paths
 - `LICENSE_SAMPLE_DATA.txt`: usage and redistribution terms for this sample dataset
 
@@ -30,5 +30,4 @@ You may not, without prior written permission from the 7DT Team:
 - Create and distribute derivative data products.
 
 Contact for permissions:
-
 myungshin.im@gmail.com
