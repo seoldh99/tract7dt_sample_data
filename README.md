@@ -4,7 +4,6 @@ Sample data asset for tract7dt test run.
 
 tract7dt: https://github.com/seoldh99/tract7dt
 
-
 ## Contents
 
 - `images/`: four FITS bands (`m400`, `m500`, `m600`, `m700`)
@@ -12,7 +11,6 @@ tract7dt: https://github.com/seoldh99/tract7dt
 - `gaiaxp_dr3_synphot_UDS.csv`: copied without modification
 - `image_list.txt`: generated at download time with absolute local image paths
 - `LICENSE_SAMPLE_DATA.txt`: usage and redistribution terms for this sample dataset
-
 
 ## Data License and Usage Terms
 
@@ -32,4 +30,5 @@ You may not, without prior written permission from the 7DT Team:
 - Create and distribute derivative data products.
 
 Contact for permissions:
+
 myungshin.im@gmail.com
