@@ -4,6 +4,7 @@ Sample data asset for tract7dt test run.
 
 tract7dt: https://github.com/seoldh99/tract7dt
 
+
 ## Contents
 
 - `images/`: four FITS bands (`m400`, `m500`, `m600`, `m700`)
@@ -12,9 +13,11 @@ tract7dt: https://github.com/seoldh99/tract7dt
 - `image_list.txt`: generated at download time with absolute local image paths
 - `LICENSE_SAMPLE_DATA.txt`: usage and redistribution terms for this sample dataset
 
+
 ## Data License and Usage Terms
 
 Copyright (c) 2026 7DT Team
+
 All rights reserved.
 
 This sample dataset is provided only for local testing and demonstration of the tract7dt software pipeline.
