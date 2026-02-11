@@ -1,4 +1,4 @@
-# tract7dt sample data asset.
+# tract7dt sample data asset
 
 Sample data asset for tract7dt test run.
 
