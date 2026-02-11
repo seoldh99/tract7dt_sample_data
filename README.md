@@ -12,13 +12,12 @@ tract7dt: https://github.com/seoldh99/tract7dt
 - `image_list.txt`: generated at download time with absolute local image paths
 - `LICENSE_SAMPLE_DATA.txt`: usage and redistribution terms for this sample dataset
 
-## Sample Data License and Usage Terms
+## Data License and Usage Terms
 
 Copyright (c) 2026 7DT Team
 All rights reserved.
 
-This sample dataset is provided only for local testing and demonstration of the
-tract7dt software pipeline.
+This sample dataset is provided only for local testing and demonstration of the tract7dt software pipeline.
 
 You may:
 - Download and use this dataset for local test runs of tract7dt.
