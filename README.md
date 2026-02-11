@@ -1,4 +1,8 @@
-# tract7dt sample data package
+# tract7dt sample data asset.
+
+Sample data asset for tract7dt test run.
+
+tract7dt: https://github.com/seoldh99/tract7dt
 
 ## Contents
 
